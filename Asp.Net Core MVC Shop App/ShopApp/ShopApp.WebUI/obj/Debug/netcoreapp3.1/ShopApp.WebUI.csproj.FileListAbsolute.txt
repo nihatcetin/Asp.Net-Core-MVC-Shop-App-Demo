@@ -1,0 +1,273 @@
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.exe
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.deps.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.dev.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.dll
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.AssemblyReference.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfoInputs.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfo.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.Manifest.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.xml
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShopApp.WebUI.styles.css
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.input.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.output.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorCoreGenerate.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.genruntimeconfig.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CopyComplete
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\1-Proje Oluşturma\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.exe
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.deps.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.dev.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.dll
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.AssemblyReference.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfoInputs.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfo.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.Manifest.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.xml
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShopApp.WebUI.styles.css
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.input.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.output.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorCoreGenerate.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.genruntimeconfig.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CopyComplete
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\3_Layout Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.exe
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.deps.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.dev.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.dll
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.AssemblyReference.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfoInputs.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfo.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.Manifest.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.xml
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShopApp.WebUI.styles.css
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.input.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.output.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorCoreGenerate.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.genruntimeconfig.cache
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CopyComplete
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\libman.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Sadık Turan\11-.NET CORE MVC\3-Asp.Net Core Mvc - Temel Özellikler\4_Section Kullanimi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package.json
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\libman.json
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package.json
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.exe
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.deps.json
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.json
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.dev.json
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.dll
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.AssemblyReference.cache
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfoInputs.cache
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfo.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cache
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.Manifest.cache
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.xml
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShopApp.WebUI.styles.css
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.input.cache
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.output.cache
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorCoreGenerate.cache
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.genruntimeconfig.cache
+D:\Sadık Turan\11-.NET CORE MVC\4-Dinamik Veri İle Çalışma\1_Repository Sınıflarının Eklenmesi\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CopyComplete
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\libman.json
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\package.json
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.exe
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.deps.json
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.json
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.dev.json
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.dll
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.AssemblyReference.cache
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfoInputs.cache
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfo.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cache
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.Manifest.cache
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.xml
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShopApp.WebUI.styles.css
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.input.cache
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.output.cache
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorCoreGenerate.cache
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout2.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.genruntimeconfig.cache
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CopyComplete
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\Sadık Turan\11-.NET CORE MVC\5-Form İle Çalışma\1_Arama Formu Get Method\ShopApp\ShopApp.WebUI\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs

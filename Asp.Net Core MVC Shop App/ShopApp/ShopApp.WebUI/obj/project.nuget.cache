@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dLMMT1qwBVh08ScvVw1WJuDYJvS1NaiOzlAjOMIWcuVgK8k8xhnr9hK8NUJ2/pAh0L048/AWlfbFf6nlf4lNZQ==",
+  "success": true,
+  "projectFilePath": "D:\\Sadık Turan\\11-.NET CORE MVC\\5-Form İle Çalışma\\1_Arama Formu Get Method\\ShopApp\\ShopApp.WebUI\\ShopApp.WebUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Win10\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
